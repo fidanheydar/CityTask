@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\CityTask\CityTask\bin\Debug\netcoreapp3.1\CityTask.exe
+C:\Users\HP\Desktop\CityTask\CityTask\bin\Debug\netcoreapp3.1\CityTask.deps.json
+C:\Users\HP\Desktop\CityTask\CityTask\bin\Debug\netcoreapp3.1\CityTask.runtimeconfig.json
+C:\Users\HP\Desktop\CityTask\CityTask\bin\Debug\netcoreapp3.1\CityTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CityTask\CityTask\bin\Debug\netcoreapp3.1\CityTask.dll
+C:\Users\HP\Desktop\CityTask\CityTask\bin\Debug\netcoreapp3.1\CityTask.pdb
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.dll
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.pdb
+C:\Users\HP\Desktop\CityTask\CityTask\obj\Debug\netcoreapp3.1\CityTask.genruntimeconfig.cache

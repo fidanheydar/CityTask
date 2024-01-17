@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTask", "CityTask\CityTask.csproj", "{5A92430A-E6E3-49A1-B1DA-B6DE810A6AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A92430A-E6E3-49A1-B1DA-B6DE810A6AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A92430A-E6E3-49A1-B1DA-B6DE810A6AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A92430A-E6E3-49A1-B1DA-B6DE810A6AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A92430A-E6E3-49A1-B1DA-B6DE810A6AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B20430-606D-4EBC-B38B-1619136656D6}
+	EndGlobalSection
+EndGlobal
